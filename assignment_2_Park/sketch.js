@@ -15,7 +15,6 @@ function draw() {
   createCanvas(710, 500);
   background(0);
   var ind = floor(random(result.length));
-    
   
   r = random(255);
   g = random(0);
